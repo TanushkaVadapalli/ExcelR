@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class demo017 {
+public class Demo017 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter two-digit number: ");
