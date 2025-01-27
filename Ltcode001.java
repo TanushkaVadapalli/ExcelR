@@ -1,4 +1,4 @@
-public class ltcode001 {
+public class Ltcode001 {
     public static boolean isPalindrome(int x) {
         
         if (x < 0 || (x % 10 == 0 && x != 0)) {
