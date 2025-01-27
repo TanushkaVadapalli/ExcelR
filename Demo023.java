@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class demo023{
+public class Demo023{
     
     public static int isPalindrome(int number) {
         
