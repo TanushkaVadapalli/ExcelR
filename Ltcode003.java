@@ -1,4 +1,4 @@
-public class ltcode003 {
+public class Ltcode003 {
     public int myAtoi(String s) {
         if (s == null || s.isEmpty()) {
             return 0;
