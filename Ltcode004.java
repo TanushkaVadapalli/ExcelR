@@ -7,7 +7,7 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-public class ltcode004 {
+public class Ltcode004 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummyHead = new ListNode(0); // Placeholder for the result
         ListNode current = dummyHead; // Pointer to build the result list
