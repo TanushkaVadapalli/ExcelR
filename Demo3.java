@@ -1,4 +1,4 @@
-public class demo3 {
+public class Demo3 {
     public static void main(String[] args) {
         // Define three numbers
         int num1 = 45;
