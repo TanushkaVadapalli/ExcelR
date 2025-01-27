@@ -1,4 +1,4 @@
- class ltcode002{
+ class Ltcode002{
     public int reverse(int x) {
         int ans = 0;
         for (; x != 0; x /= 10) {
