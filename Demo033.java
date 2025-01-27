@@ -10,7 +10,7 @@ class LinkedHashSetDemo{
         System.out.println(lhs);
         lhs.remove(30);
 
-        //forEach loop: It is optimized for Collections and Arrays
+        
 		int sum=0;
 		for(Integer x : lhs) {
 			sum += x;
@@ -24,7 +24,7 @@ class LinkedHashSetDemo{
 		}
 	}
 }
-public class demo033 {
+public class Demo033 {
     public static void main(String[] args) {
         LinkedHashSetDemo obj = new LinkedHashSetDemo();
         obj.linkedHashsetMethod();
